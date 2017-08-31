@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures tls_win_sec_audit'
 long_description 'Installs/Configures tls_win_sec_audit'
-version '0.1.0'
+version '0.1.1'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 depends 'audit'
